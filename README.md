@@ -26,11 +26,10 @@ Evaluate model accuracy using error metrics
 Visualize stock trends and predictions
 
 
+Technologies Used
 
-🧠 Technologies Used
 
-
-Python 🐍
+Python 
 
 
 Visual Studio Code
@@ -69,7 +68,7 @@ Reliance Industries (RELIANCE.NS)
 
 
 
-⚙️ Project Workflow
+Project Workflow
 1. Data Collection
 
 
